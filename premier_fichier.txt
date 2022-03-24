@@ -1,1 +1,3 @@
 Bonjour ceci est le début de la pratique de Git et Github
+
+Ceci est la première modification du fichier 
